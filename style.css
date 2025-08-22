@@ -28,7 +28,7 @@ div {
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #fff;        
     margin-top: 130px;
     margin-left: 12px;
 }
@@ -43,7 +43,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 13;
+    z-index: 12;
     border-radius: 8px;
     animation: one 5s infinite alternate;
     transform-origin: center 90%;
@@ -57,7 +57,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 12;
+    z-index: 11;
     border-radius: 8px;
     animation: two 5s infinite alternate;
     transform-origin: center 90%;
@@ -66,12 +66,13 @@ div {
 .three {
     width: 50px;
     height: 200px;
-    background-color: rgb(237, 237, 13);
+    background-color: yellow;
+    text-shadow: 1px 1px 0 #444;
     border-top: solid 2px rgba(0, 0, 0, 0.2);
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 11;
+    z-index: 10;
     border-radius: 8px;
     animation: three 5s infinite alternate;
     transform-origin: center 90%;
@@ -85,7 +86,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 10;
+    z-index: 9;
     border-radius: 8px;
     animation: four 5s infinite alternate;
     transform-origin: center 90%;
@@ -99,7 +100,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 9;
+    z-index: 8;
     border-radius: 8px;
     animation: five 5s infinite alternate;
     transform-origin: center 90%;
@@ -113,7 +114,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 8;
+    z-index: 7;
     border-radius: 8px;
     animation: six 5s infinite alternate;
     transform-origin: center 90%;
@@ -127,7 +128,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 7;
+    z-index: 6;
     border-radius: 8px;
     animation: seven 5s infinite alternate;
     transform-origin: center 90%;
@@ -141,7 +142,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 6;
+    z-index: 5;
     border-radius: 8px;
     animation: eight 5s infinite alternate;
     transform-origin: center 90%;
@@ -155,7 +156,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 5;
+    z-index: 4;
     border-radius: 8px;
     animation: nine 5s infinite alternate;
     transform-origin: center 90%;
@@ -169,7 +170,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 4;
+    z-index: 3;
     border-radius: 8px;
     animation: ten 5s infinite alternate;
     transform-origin: center 90%;
@@ -183,7 +184,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 3;
+    z-index: 2;
     border-radius: 8px;
     animation: eleven 5s infinite alternate;
     transform-origin: center 90%;
@@ -197,7 +198,7 @@ div {
     border-left: solid 3px rgba(255, 255, 255, 0.2);
     border-bottom: solid 3px rgba(0, 0, 0, 0.2);
     position: absolute;
-    z-index: 2;
+    z-index: 1;
     border-radius: 8px;
     animation: twelve 5s infinite alternate;
     transform-origin: center 90%;
